@@ -1,0 +1,256 @@
+{
+  "url": "https://ccipad123.github.io/spatial-transcriptomics/",
+  "source_doi": "10.1038/s41593-020-00787-0",
+  "samples": [
+    "151673",
+    "151674"
+  ],
+  "public_report_pages": 41,
+  "files": [
+    {
+      "path": "docs/.nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "docs/404.html",
+      "bytes": 300,
+      "sha256": "0b686e3e719dc25e819023d926d6a2b1ab554e2013607524d4982574f8eb5dc6"
+    },
+    {
+      "path": "docs/app.js",
+      "bytes": 9905,
+      "sha256": "926f93862673b8152629afab3d9faf9ffbcbc55e78a7278e12d5f028d233e21f"
+    },
+    {
+      "path": "docs/assets/01_mindmap.svg",
+      "bytes": 167975,
+      "sha256": "be1fa6f8405a1db83f941264bfca840964f3132bdb9d3c8e232e32938fd3957b"
+    },
+    {
+      "path": "docs/assets/02_histology_layers.svg",
+      "bytes": 21277807,
+      "sha256": "275362130203345ef809b8abb604e6a2f784325c486f14290b403f08fea53c41"
+    },
+    {
+      "path": "docs/assets/03_quality_control.svg",
+      "bytes": 1320546,
+      "sha256": "2bc84ec7502ba4c1df3e260c81eb6f80b2ceff991ebdcb97e857befa57cd3b0e"
+    },
+    {
+      "path": "docs/assets/04_layer_composition.svg",
+      "bytes": 124740,
+      "sha256": "d380fe4ff33d397bdfe0d6e31b6b4f67f1e08fd63783a84c990940591e6337c7"
+    },
+    {
+      "path": "docs/assets/05_marker_spatial_maps.svg",
+      "bytes": 18003233,
+      "sha256": "db9fecb5e091a582e66fb949e735ac28771b3a3c0acb23cfb833c6cd6e41f0c9"
+    },
+    {
+      "path": "docs/assets/06_heatmap_moran.svg",
+      "bytes": 155065,
+      "sha256": "2c59497aeea22c9af7379eb4963c0b5faa32df79f42b03fdb4afbcc5a12334f4"
+    },
+    {
+      "path": "docs/assets/07_layer_marker_boxplots.svg",
+      "bytes": 75770,
+      "sha256": "e4f85aa7ea25a4e76e5b502ea9c1eff998d0ab96eb3a01dfe339ef9d03ab66d8"
+    },
+    {
+      "path": "docs/assets/08_embeddings.svg",
+      "bytes": 1494080,
+      "sha256": "777dbcea4ef8673a949cb485fca6b5748e40bbc55380e1be4f9aa3478ea19a53"
+    },
+    {
+      "path": "docs/assets/09_clustering_comparison.svg",
+      "bytes": 1550437,
+      "sha256": "6be5f9889796866937e538d21c25cca3b653627601f6900c20f7bf4e26787480"
+    },
+    {
+      "path": "docs/assets/10_model_comparison.svg",
+      "bytes": 60353,
+      "sha256": "847868e39e7e7f268e8d8c5fa12446332821aa2381835e612b300732bd9e8865"
+    },
+    {
+      "path": "docs/assets/11_confusion_matrices.svg",
+      "bytes": 125514,
+      "sha256": "7f01fdf52300c31295bde7e292ee50596b41e2cae3c083709d29e6e751452b17"
+    },
+    {
+      "path": "docs/assets/12_roc_pr.svg",
+      "bytes": 236098,
+      "sha256": "bb67feb613612f58c0d16534da63b8502fa2df6d28bb668fe78c9eae6910b5e1"
+    },
+    {
+      "path": "docs/assets/13_calibration_uncertainty.svg",
+      "bytes": 63949,
+      "sha256": "ac0e481bced3cc71b560c62c07b1dfc0b1768263860bb6d649650caa8eaddcec"
+    },
+    {
+      "path": "docs/assets/14_spatial_prediction_errors.svg",
+      "bytes": 2126410,
+      "sha256": "ea9410c3d034d8f86ac6e42db4b6c6b5672406d80b38924f742d889227120500"
+    },
+    {
+      "path": "docs/assets/151673_he.png",
+      "bytes": 6148725,
+      "sha256": "547a0ef24c417934b117adeeaa373bc5480113b8c616c17d9f5bf8b4e8e563b0"
+    },
+    {
+      "path": "docs/assets/151674_he.png",
+      "bytes": 5825181,
+      "sha256": "a00506f3f4b83f31f14be108997921b18d44393daabeb8fa987d5ce386f544a7"
+    },
+    {
+      "path": "docs/assets/15_interpretation.svg",
+      "bytes": 141355,
+      "sha256": "8581b4f31f1eaac9008194ff5802a0183e41cdca586a6097387c878ec40e4f67"
+    },
+    {
+      "path": "docs/assets/17_histology_multiscale.svg",
+      "bytes": 20238749,
+      "sha256": "eae04d565bd9706cf3a432fd37039ae6ba95a28d8223ac739adf47d712e56031"
+    },
+    {
+      "path": "docs/assets/18_cross_section_replication.svg",
+      "bytes": 211970,
+      "sha256": "a8c005251e0a3a4f418f8040c21dc002954879269a23b1987779cb8147eb20e8"
+    },
+    {
+      "path": "docs/assets/19_marker_discovery_validation.svg",
+      "bytes": 344788,
+      "sha256": "bce9b0b42d1571a3cde9cd492440a20c5a3fab10757544706edc2848eb58794b"
+    },
+    {
+      "path": "docs/assets/20_spatial_expression_gradients.svg",
+      "bytes": 12713956,
+      "sha256": "a583d193d276bffa53a3583063b8dc2677c00a2646b104b1c4cca5a7853172e3"
+    },
+    {
+      "path": "docs/assets/21_layer_neighborhood_network.svg",
+      "bytes": 135079,
+      "sha256": "ad42b04ba3f9ea592e01ccba8feb133f3c66989367ce0a10c4e26dd070940a57"
+    },
+    {
+      "path": "docs/assets/22_multiscale_spatial_structure.svg",
+      "bytes": 184304,
+      "sha256": "3a9b6f4eea8e950b64aa46229ef193598f94fd0604081ac2cdb9f5f7b94e7cfc"
+    },
+    {
+      "path": "docs/assets/23_clustering_stability.svg",
+      "bytes": 678163,
+      "sha256": "aeddff262b4823c6e0019883d8218ff410a80240ce096f3cedcd39c92fa299e7"
+    },
+    {
+      "path": "docs/assets/24_prediction_error_structure.svg",
+      "bytes": 606050,
+      "sha256": "fc86d629d5e94b49201d78d1edd0bd57e92f287ed8c08fef5a0d7e124f8940d2"
+    },
+    {
+      "path": "docs/assets/25_model_disagreement.svg",
+      "bytes": 621088,
+      "sha256": "e8ce5e0ebeee66f21277dae51b009549055d9f23ef4db789a772f92767abd660"
+    },
+    {
+      "path": "docs/assets/26_image_expression_ablation.svg",
+      "bytes": 1698381,
+      "sha256": "e97d59a5d9675ef4251fa46c390785eac77dbf18cf3647ac67e056a4f8206030"
+    },
+    {
+      "path": "docs/assets/analyze.py",
+      "bytes": 16989,
+      "sha256": "331cacb38d803df10f1ee1db68df557363c43a4e6ceb33b4c2a248cca8a3497b"
+    },
+    {
+      "path": "docs/assets/boundary_ring_errors.csv",
+      "bytes": 282,
+      "sha256": "5b35ac3a67d264495ebd94c4e3d6fc57f1caa226c4d0fe5c484963deffa2b025"
+    },
+    {
+      "path": "docs/assets/course_report.pdf",
+      "bytes": 31151266,
+      "sha256": "8514b8fffba16311767504e5c953ffe447ea9c9af38cd78d5597d72281856da8"
+    },
+    {
+      "path": "docs/assets/discovered_marker_panel.csv",
+      "bytes": 2024,
+      "sha256": "295e40be69ccc81e8d3f66b40835f9f355c48386950fe1837b63bdd82e8b422f"
+    },
+    {
+      "path": "docs/assets/extended_analysis.py",
+      "bytes": 16900,
+      "sha256": "2220a5ad503cf3a45444d20247453a7eb2768458dc600ce7b6664cbe155be2de"
+    },
+    {
+      "path": "docs/assets/favicon.svg",
+      "bytes": 226,
+      "sha256": "c1589d5434a0b566c08416974e24014a2f16a1717326bbf9074fea32ad8ecfab"
+    },
+    {
+      "path": "docs/assets/layer_replication.csv",
+      "bytes": 256,
+      "sha256": "aec432f35a421dc1e23f492ab2ed1559a298497ef49b9dea9c1814d03bde89fd"
+    },
+    {
+      "path": "docs/assets/marker_statistics.csv",
+      "bytes": 3745,
+      "sha256": "52b6a59ea1886b1e6e4020b279b37dbd8d5420185e1c5c2541b56e3e87c0f4f3"
+    },
+    {
+      "path": "docs/assets/modality_model_metrics.csv",
+      "bytes": 671,
+      "sha256": "645bebc96967243561d1ba0594d081513381912472018ee30663299fe56ae5a2"
+    },
+    {
+      "path": "docs/assets/model_metrics.csv",
+      "bytes": 1650,
+      "sha256": "29de7bcb84353c74cc8e9fdea822a128030398e2e0becc692505b81d70705b7e"
+    },
+    {
+      "path": "docs/assets/paired_model_difference.csv",
+      "bytes": 239,
+      "sha256": "384fbcf2cc8348ad640d35faa0885f65323ff7296862aa4755e72991d5d489bf"
+    },
+    {
+      "path": "docs/assets/reference_audit.json",
+      "bytes": 9974,
+      "sha256": "d6e88b719d22619216e18e04cc2bd6e5f2f30fabf08b40e5f3f7701a51ec8f8d"
+    },
+    {
+      "path": "docs/data.js",
+      "bytes": 900238,
+      "sha256": "ffef15b6dbe0647c72b7e5b86c216e8429cb895b906dfc5f61bbccee811f6038"
+    },
+    {
+      "path": "docs/index.html",
+      "bytes": 10514,
+      "sha256": "5813727439a2b8a8a3fe0c6a9d03192611948c10747374f0b8f17589e322b170"
+    },
+    {
+      "path": "docs/references.js",
+      "bytes": 8802,
+      "sha256": "7556813b743a0072a99853284c7c204a8b4994064357003868d546a72f74a74e"
+    },
+    {
+      "path": "docs/results.js",
+      "bytes": 1717,
+      "sha256": "151b8700c781a0483ad1dd6e1ee6961488bc1aa08ee670be3aa86ba7f2b9dafa"
+    },
+    {
+      "path": "docs/robots.txt",
+      "bytes": 96,
+      "sha256": "411fe65dc162eabbe282c34a49acd1851edaab1245445e1381ddd57ff03599a0"
+    },
+    {
+      "path": "docs/sitemap.xml",
+      "bytes": 183,
+      "sha256": "8d4c0a14b2dc9dc4860f8498f25fb15344048d2ce34a33cf06f8f4d148b5ec8d"
+    },
+    {
+      "path": "docs/style.css",
+      "bytes": 9748,
+      "sha256": "f494f1b73c9b88da105ba2e5da2e993b92b06b6ba1adf37e95a363ef95ca68c6"
+    }
+  ]
+}

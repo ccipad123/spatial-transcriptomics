@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ccipad123.github.io/spatial-transcriptomics/sitemap.xml
