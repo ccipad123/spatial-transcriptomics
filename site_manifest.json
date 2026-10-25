@@ -5,7 +5,7 @@
     "151673",
     "151674"
   ],
-  "public_report_pages": 41,
+  "public_report_pages": 40,
   "files": [
     {
       "path": "docs/.nojekyll",
@@ -24,8 +24,8 @@
     },
     {
       "path": "docs/assets/01_mindmap.svg",
-      "bytes": 167975,
-      "sha256": "be1fa6f8405a1db83f941264bfca840964f3132bdb9d3c8e232e32938fd3957b"
+      "bytes": 162525,
+      "sha256": "3f1b3ad3ccebb0fe7cf6234717747276d96a72a9ca4095af2fbd4eb84fdc63e2"
     },
     {
       "path": "docs/assets/02_histology_layers.svg",
@@ -169,8 +169,8 @@
     },
     {
       "path": "docs/assets/course_report.pdf",
-      "bytes": 31151311,
-      "sha256": "db1cbdf55f9f8b90ca1b9b007c187b06c2f234f062e5b284f3c2d22ba472ae9c"
+      "bytes": 31121050,
+      "sha256": "800a4f0f50f70be9abde7fdfb6a4b9cdd1caba97c48e4a4417918ed48100c33a"
     },
     {
       "path": "docs/assets/discovered_marker_panel.csv",
@@ -224,8 +224,8 @@
     },
     {
       "path": "docs/index.html",
-      "bytes": 10554,
-      "sha256": "5df5207735c5c56c32f4df9b3aceb39007391b80b4ec5a7748605fb93de08beb"
+      "bytes": 10560,
+      "sha256": "a37e533dc453498fbb28b277f7786f497ceaf9e86d62b7d09d2b41a2bef0a199"
     },
     {
       "path": "docs/references.js",
