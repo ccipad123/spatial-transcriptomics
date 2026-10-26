@@ -169,8 +169,8 @@
     },
     {
       "path": "docs/assets/course_report.pdf",
-      "bytes": 31121050,
-      "sha256": "800a4f0f50f70be9abde7fdfb6a4b9cdd1caba97c48e4a4417918ed48100c33a"
+      "bytes": 31123191,
+      "sha256": "dbb02f8334312288e8c1edca40fe489230f278cb3ae838f97e90ff19a638452f"
     },
     {
       "path": "docs/assets/discovered_marker_panel.csv",
@@ -224,8 +224,8 @@
     },
     {
       "path": "docs/index.html",
-      "bytes": 12985,
-      "sha256": "18dfa1019d78f14e7a43db1b5ee3dcfefb33ea367874843365897897b6feddd2"
+      "bytes": 13095,
+      "sha256": "7c6e53f26c9176e874443591d83775e85f94fc0039de82f2ce09f515816fda6d"
     },
     {
       "path": "docs/references.js",
