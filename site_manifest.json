@@ -19,8 +19,8 @@
     },
     {
       "path": "docs/app.js",
-      "bytes": 9905,
-      "sha256": "926f93862673b8152629afab3d9faf9ffbcbc55e78a7278e12d5f028d233e21f"
+      "bytes": 15402,
+      "sha256": "d694b1a9d2514621dbaf989085a78b7ef9be6b89a2880b2114104d5d11b84e8d"
     },
     {
       "path": "docs/assets/01_mindmap.svg",
@@ -184,8 +184,8 @@
     },
     {
       "path": "docs/assets/favicon.svg",
-      "bytes": 226,
-      "sha256": "c1589d5434a0b566c08416974e24014a2f16a1717326bbf9074fea32ad8ecfab"
+      "bytes": 433,
+      "sha256": "944f8f787e3cc3de7c82b99d9ae60ea8f05daa1ae23cdd8d79ae9904392687f4"
     },
     {
       "path": "docs/assets/layer_replication.csv",
@@ -224,8 +224,8 @@
     },
     {
       "path": "docs/index.html",
-      "bytes": 10560,
-      "sha256": "a37e533dc453498fbb28b277f7786f497ceaf9e86d62b7d09d2b41a2bef0a199"
+      "bytes": 12985,
+      "sha256": "18dfa1019d78f14e7a43db1b5ee3dcfefb33ea367874843365897897b6feddd2"
     },
     {
       "path": "docs/references.js",
@@ -249,8 +249,8 @@
     },
     {
       "path": "docs/style.css",
-      "bytes": 9748,
-      "sha256": "f494f1b73c9b88da105ba2e5da2e993b92b06b6ba1adf37e95a363ef95ca68c6"
+      "bytes": 15565,
+      "sha256": "34020208918c33dab09c3ac438276948299680913d75180e6ce460d3531d3ccc"
     }
   ]
 }
