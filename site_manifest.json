@@ -5,7 +5,7 @@
     "151673",
     "151674"
   ],
-  "public_report_pages": 40,
+  "public_report_pages": 49,
   "files": [
     {
       "path": "docs/.nojekyll",
@@ -169,8 +169,8 @@
     },
     {
       "path": "docs/assets/course_report.pdf",
-      "bytes": 31123191,
-      "sha256": "dbb02f8334312288e8c1edca40fe489230f278cb3ae838f97e90ff19a638452f"
+      "bytes": 47484577,
+      "sha256": "de4f133d7ee5530ca22391d91b179358b37a2b095cc0edf8a7c84d2dc0a47b9f"
     },
     {
       "path": "docs/assets/discovered_marker_panel.csv",
